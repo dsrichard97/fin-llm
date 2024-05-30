@@ -3,7 +3,8 @@
 ⬆️ (Replace above with your app's name)
 ```
 
-Description of the app ...
+This Streamlit app provides an interactive dashboard for analyzing various aspects of Tesla's financial performance. The app focuses on three main areas: Tesla's stock price, its supply chain, and competitors in the electric vehicle (EV) market. Users can explore Tesla's historical stock data, gain insights into key suppliers and components within Tesla's supply chain, and compare Tesla's market position with other major EV manufacturers. The app is designed to offer a comprehensive overview, making it a valuable tool for investors, analysts, and anyone interested in Tesla's financial health and market dynamics.
+
 
 ## Demo App
 
